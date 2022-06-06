@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Заметки сетевика's documentation!
+СЕТЕВЫЕ ТЕХНОЛОГИИ
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   intro
+   strings
+   datatypes
+   numeric
 
 Indices and tables
 ==================
