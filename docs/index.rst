@@ -9,10 +9,10 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   intro
-   strings
-   datatypes
-   numeric
+      intro
+      strings
+      datatypes
+      numeric
 
 Indices and tables fdfdfdf
 ==================
