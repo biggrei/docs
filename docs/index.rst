@@ -14,7 +14,7 @@
       datatypes
       numeric
 
-Indices and tables fdfdfdf
+Indices and tables
 ==================
 
 * :ref:`genindex`
